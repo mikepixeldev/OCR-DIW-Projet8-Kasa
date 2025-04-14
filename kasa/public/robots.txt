@@ -25,4 +25,4 @@ Disallow:
 User-agent: *
 Disallow:
 
-Sitemap: https://kasa.city/sitemap.xml
+Sitemap: https://kasa.mikepixel.dev/sitemap.xml
